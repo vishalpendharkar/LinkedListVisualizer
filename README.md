@@ -94,3 +94,16 @@ GitHub: https://github.com/vishalpendharkar
 
 ```
 ```
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Singly Linked List
+![Singly Linked List](screenshots/singly-linked-list.png)
+
+### Doubly Linked List
+![Doubly Linked List](screenshots/doubly-linked-list.png)
+
+### Circular Singly Linked List
+![Circular Linked List](screenshots/circular-linked-list.png)
