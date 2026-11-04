@@ -1,0 +1,42 @@
+# React
+node_modules/
+dist/
+.vite/
+
+# Java Maven
+target/
+*.class
+*.jar
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.idea/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Database credentials
+**/application.properties
+
+# Environment variables
+.env
+.env.local
+
+# React
+**/node_modules/
+**/dist/
+
+# Java
+**/target/
+
+# IDE
+.idea/
+.settings/
+.classpath
+.project
